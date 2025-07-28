@@ -1,4 +1,4 @@
-# Grade Calculator (Tkinter GUI)
+# Grade and Average Calculator (Tkinter GUI)
 
 This is a user-friendly Python application built with Tkinter that helps students of Class 9 & 10 of 'Khyber Pakhtunkhwa Board' calculate their total marks, percentage, and grade based on the marks entered for each subject. The GUI is scrollable and designed to accommodate a variety of screen sizes.
 
