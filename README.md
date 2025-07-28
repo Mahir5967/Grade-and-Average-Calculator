@@ -61,7 +61,7 @@ This is a user-friendly Python application built with Tkinter that helps student
 
 **Muhammad Mahir Raza Qureshi**  
 [LinkedIn: Muhammad Mahir Raza Qureshi](https://www.linkedin.com/in/muhammad-mahir-raza-qureshi)
-
+email:mahirqureshi59@gmail.com
 ---
 
 *Feel free to use, modify, and share this project! Contributions and suggestions are welcome.*
