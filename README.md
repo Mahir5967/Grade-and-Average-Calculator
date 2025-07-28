@@ -62,6 +62,6 @@ Percentage | Grade | Remarks
 **Muhammad Mahir Raza Qureshi**  
 [LinkedIn: Muhammad Mahir Raza Qureshi](https://www.linkedin.com/in/muhammad-mahir-raza-qureshi)
 
-[email:mahirqureshi59@gmail.com]
+email:mahirqureshi59@gmail.com
 
 *Feel free to use, modify, and share this project! Contributions and suggestions are welcome.*
