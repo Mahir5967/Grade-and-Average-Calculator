@@ -46,11 +46,9 @@ Percentage | Grade | Remarks
    ```bash
    python grade_calculator.py
 
-## 🖥️ Screenshot
+## 🖥️ Screen Recording
 
-1.<img width="1365" height="718" alt="Screenshot 2025-07-26 6 02 35 PM" src="https://github.com/user-attachments/assets/14c01ef2-9acc-4445-866f-8e5cf106250d" />
 
-2.<img width="1365" height="718" alt="Screenshot 2025-07-26 6 02 46 PM" src="https://github.com/user-attachments/assets/88c4bff6-f057-4675-89b0-6f126361d0e9" />
 
 
 ## 📝 Notes
@@ -63,7 +61,8 @@ Percentage | Grade | Remarks
 
 **Muhammad Mahir Raza Qureshi**  
 [LinkedIn: Muhammad Mahir Raza Qureshi](https://www.linkedin.com/in/muhammad-mahir-raza-qureshi)
-email:mahirqureshi59@gmail.com
+email[Screen recording 2025-07-28 8.38.49 PM.webm](https://github.com/user-attachments/assets/2031bce1-ea8e-429d-8d02-2fd4df2f5501)
+:mahirqureshi59@gmail.com
 ---
 
 *Feel free to use, modify, and share this project! Contributions and suggestions are welcome.*
