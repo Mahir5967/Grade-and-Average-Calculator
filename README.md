@@ -48,9 +48,11 @@ Percentage | Grade | Remarks
 
 ## 🖥️ Screen Recording
 
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/demo.webm
+## 🖥️ Screen Recording
 
-<video src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/demo.webm" controls width="600">
+[📽 Click here to watch the screen recording](https://github.com/Mahir5967/Grade-and-Average-Calculator/blob/main/demo.webm)
+
+<video src="https://github.com/Mahir5967/Grade-and-Average-Calculator/raw/main/demo.webm" controls width="600">
   Your browser does not support the video tag.
 </video>
 
