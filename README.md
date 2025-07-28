@@ -1,48 +1,50 @@
 # Grade and Average Calculator (Tkinter GUI)
 
-This is a user-friendly Python application built with Tkinter that helps students of Class 9 & 10 of 'Khyber Pakhtunkhwa Board' calculate their total marks, percentage, and grade based on the marks entered for each subject. The GUI is scrollable and designed to accommodate a variety of screen sizes.
+This Python application helps students of Class 9 & 10 (Khyber Pakhtunkhwa Board) calculate their total marks, percentage, and grade with an intuitive graphical interface.
 
 ## ✨ Features
 
-- Easy-to-use graphical interface
-- Input marks for nine major subjects
-- Checks for valid marks and empty inputs
-- Calculates total marks, percentage, and grade (A+, A, B, C, D, FAIL)
-- Scrollable window for better usability
-- "Clear All" button to reset all fields quickly
+- **User-friendly interface** with responsive design
+- **Input validation** for all fields
+- **Automatic calculation** of total marks and percentage
+- **Grade determination** based on official criteria
+- **Quick reset** functionality
+- **Scrollable window** for all screen sizes
 
 ## 📚 Subjects Included
 
-1. Maths (Maximum 75 marks)
-2. English (Maximum 75 marks)
-3. Biology (Maximum 75 marks)
-4. Chemistry (Maximum 75 marks)
-5. Physics (Maximum 75 marks)
-6. Urdu (Maximum 75 marks)
-7. Pakistan Studies (Maximum 50 marks)
-8. Mutal-e-Quran (Maximum 50 marks)
-9. Islamiyat (Maximum 50 marks)
+| Subject        | Max Marks |
+|----------------|-----------|
+| Maths          | 75        |
+| English        | 75        |
+| Biology        | 75        |
+| Chemistry      | 75        |
+| Physics        | 75        |
+| Urdu           | 75        |
+| Pakistan Studies | 50      |
+| Mutal-e-Quran  | 50        |
+| Islamiyat      | 50        |
 
-## 🏆 Grading Criteria
+## � Grading System
 
-| Percentage   | Grade |
-|--------------|-------|
-| 90% and above| A+    |
-| 80% - 89%    | A     |
-| 70% - 79%    | B     |
-| 60% - 69%    | C     |
-| 50% - 59%    | D     |
-| Below 50%    | FAIL  |
+Percentage | Grade | Remarks
+-----------|-------|---------
+≥90%       | A+    | Excellent
+80-89%     | A     | Very Good  
+70-79%     | B     | Good
+60-69%     | C     | Satisfactory
+50-59%     | D     | Pass
+<50%       | FAIL  | Needs Improvement
 
-## 🚀 How to Run
+## 🚀 Installation & Usage
 
-1. **Clone the repository or copy the `new_grade_calculator.py` file.**
-2. Make sure you have Python installed (version 3.x recommended).
-3. Run the script:
+1. **Requirements**:
+   - Python 3.6+
+   - Tkinter (usually comes with Python)
+
+2. **Running the application**:
    ```bash
-   python new_grade_calculator.py
-   ```
-4. Enter your name and marks for each subject, then click **Calculate** to see your results!
+   python grade_calculator.py
 
 ## 🖥️ Screenshot
 
