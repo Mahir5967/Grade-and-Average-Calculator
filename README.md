@@ -61,8 +61,7 @@ Percentage | Grade | Remarks
 
 **Muhammad Mahir Raza Qureshi**  
 [LinkedIn: Muhammad Mahir Raza Qureshi](https://www.linkedin.com/in/muhammad-mahir-raza-qureshi)
-email[Screen recording 2025-07-28 8.38.49 PM.webm](https://github.com/user-attachments/assets/2031bce1-ea8e-429d-8d02-2fd4df2f5501)
-:mahirqureshi59@gmail.com
----
+
+[email:mahirqureshi59@gmail.com]
 
 *Feel free to use, modify, and share this project! Contributions and suggestions are welcome.*
