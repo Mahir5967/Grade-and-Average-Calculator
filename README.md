@@ -48,13 +48,7 @@ Percentage | Grade | Remarks
 
 ## 🖥️ Screen Recording
 
-## 🖥️ Screen Recording
-
-[📽 Click here to watch the screen recording](https://github.com/Mahir5967/Grade-and-Average-Calculator/blob/main/demo.webm)
-
-<video src="https://github.com/Mahir5967/Grade-and-Average-Calculator/raw/main/demo.webm" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[https://github.com/Mahir5967/Grade-and-Average-Calculator/issues/1#issue-3280441411]
 
 
 ## 📝 Notes
