@@ -57,7 +57,7 @@ https://github.com/Mahir5967/Grade-and-Average-Calculator/issues/1#issue-3280441
 - Marks entered must not exceed the maximum for each subject.
 - Use the "Clear All" button to start over.
 
-##👤 Author
+##*👤 Author*
 
 Muhammad Mahir Raza Qureshi
 
