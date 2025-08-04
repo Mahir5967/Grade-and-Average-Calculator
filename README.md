@@ -59,7 +59,9 @@ https://github.com/Mahir5967/Grade-and-Average-Calculator/issues/1#issue-3280441
 
 ##👤 Author
 Muhammad Mahir Raza Qureshi
+
 📧 Email: mahirqureshi59@gmail.com
+
 🔗 LinkedIn: Muhammad Mahir Raza Qureshi
 
 *Feel free to use, modify, and share this project! Contributions and suggestions are welcome.*
