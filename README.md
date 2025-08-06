@@ -44,7 +44,7 @@ Percentage | Grade | Remarks
 
 2. **Running the application**:
    ```bash
-   python grade_calculator.py
+   python new_grade_calculator.py
 
 ## 🖥️ Screen Recording
 
@@ -57,7 +57,7 @@ https://github.com/Mahir5967/Grade-and-Average-Calculator/issues/1#issue-3280441
 - Marks entered must not exceed the maximum for each subject.
 - Use the "Clear All" button to start over.
 
-**👤 Author**
+# 👤 Author
 
 Muhammad Mahir Raza Qureshi
 
