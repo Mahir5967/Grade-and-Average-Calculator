@@ -48,8 +48,7 @@ Percentage | Grade | Remarks
 
 ## 🖥️ Screen Recording
 
-https://github.com/Mahir5967/Grade-and-Average-Calculator/issues/1#issue-3280441411
-
+https://github.com/user-attachments/assets/ddd4bae1-9d64-4af7-bd89-d52984e8f2c0
 
 ## 📝 Notes
 
